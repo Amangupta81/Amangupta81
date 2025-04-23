@@ -9,15 +9,6 @@
   This service is free and open-source! If you'd like to support it, sponsorships are welcome.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/INT__MIN-Profile%20View-blue?style=for-the-badge&labelColor=blue&color=gray" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vishalyadav0987&theme=juicyfresh&column=6&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="GitHub Trophies" />
-  </a>
-</p>
 
 ---
 
@@ -72,7 +63,6 @@
   <tr>
     <td align="center"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="55" height="55"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="55" height="55"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="55" height="55"/></td>
     <td align="center"><img src="https://vectorified.com/images/express-js-icon-20.png" alt="Express.js" width="55" height="55"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg" alt="Tailwind CSS" width="55" height="55"/></td>
   </tr>
@@ -84,7 +74,7 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="55" height="55"/></td>
     <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/></td>
     <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/></td>
-    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/></td>
+  
   </tr>
 </table>
 
@@ -114,31 +104,7 @@
 
 
 
-## GitHub Stats 📊
-
-<!--
-<p align="center">
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&preferLogin=false&Text=FFFFFF&Ring=C2CB15&Title=C2CB15&Background=000000&Border=000000">
-  <img alt="vishalyadav0987's GitHub Stats" 
-       src="https://awesome-github-stats.azurewebsites.net/user-stats/vishalyadav0987?cardType=level&theme=github-dark&preferLogin=false&Text=FFFFFF&Ring=C2CB15&Title=C2CB15&Background=000000&Border=000000" 
-        />
-</a>
-
-</p> 
-
-<p align="center" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalyadav0987&theme=highcontrast&hide_border=true" alt="vishalyadav0987's Streak" />
-</p>
-
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalyadav0987&theme=highcontrast&hide_border=true&border_radius=5&card_width=600" alt="Top Languages" />
 </p>
--->
-![vishalyadav0987's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalyadav0987&theme=merko&show_icons=true&hide_border=true&layout=compact)
-
-![vishalyadav0987's Stats](https://github-readme-stats.vercel.app/api?username=vishalyadav0987&theme=merko&show_icons=true&hide_border=true&count_private=true)
-
-![vishalyadav0987's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishalyadav0987&theme=merko&hide_border=true)

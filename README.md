@@ -48,8 +48,6 @@
 ### Programming Languages
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/></td>
-    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/></td>
     <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55"/></td>
@@ -101,10 +99,3 @@
 </table>
 
 ---
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalyadav0987&theme=highcontrast&hide_border=true&border_radius=5&card_width=600" alt="Top Languages" />
-</p>
